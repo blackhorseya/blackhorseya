@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+
+# daemon 的本地 worktree marker —— 絕不可進版控（含 instance 名與絕對路徑）
+.agend-managed
