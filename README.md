@@ -1,29 +1,78 @@
-# Hi 👋, I'm Sean Zheng
+# Sean Zheng
 
-### Senior Engineer
+<a href="https://blog.seancheng.space"><img src="https://img.shields.io/badge/Blog-blog.seancheng.space-0e75b6?style=flat-square&logo=hexo&logoColor=white" alt="Blog" /></a>
+<a href="https://github.com/blackhorseya/resume"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-LaTeX-008080?style=flat-square&logo=latex&logoColor=white" alt="Résumé" /></a>
+<a href="https://linkedin.com/in/chengchincheng"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://medium.com/@blackhorseya"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://leetcode.com/blackhorseya"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<img src="https://komarev.com/ghpvc/?username=blackhorseya&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=blackhorseya&label=Profile views&color=0e75b6&style=flat" alt="blackhorseya" /> </p>
+Backend and platform engineer. I build services in **Go** — domain first, Clean Architecture,
+dependencies pointing inward — and reach for **Rust** when the thing I need is a tool rather than a service.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blackhorseya" alt="blackhorseya" /></a> </p>
+Most of what I publish here is one of three kinds: a system built the way I think systems should be built,
+a tool I needed and could not find, or notes from learning something properly rather than quickly.
 
-- 📝 I regularly write articles on **[https://blog.seancheng.space](https://blog.seancheng.space)**
+---
 
-- 📄 Know about my experiences **[https://github.com/blackhorseya/resume](https://github.com/blackhorseya/resume)**
+## How I build
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/blackhorseya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="blackhorseya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/chengchincheng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chengchincheng" height="30" width="40" /></a>
-<a href="https://medium.com/@blackhorseya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@blackhorseya" height="30" width="40" /></a>
-<a href="https://leetcode.com/blackhorseya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="blackhorseya" height="30" width="40" /></a>
-</p>
+These are the opinions that show up in almost every repo here, so they are worth stating directly:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/amplify" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/d3js" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=d3" alt="d3js" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/elasticsearch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=elasticsearch" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/electron" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=electron" alt="electron" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/go" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=go" alt="go" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/grafana" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=grafana" alt="grafana" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/hexo" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/hexo/0E83CD" alt="hexo" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kafka" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kafka" alt="kafka" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/keras" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mariadb" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matplotlib" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a></p>
+| | |
+|---|---|
+| **Domain first** | The domain layer is written before the database and the framework, and does not import either. |
+| **Behaviour, not bags of data** | `order.Cancel()` rather than `order.SetStatus(CANCELLED)`. Objects expose what they *do*. |
+| **Always valid** | Fields are private, constructors validate. An object that exists is an object in a legal state. |
+| **Errors are values** | Wrapped with context, matched with `errors.Is`/`errors.As`, never a panic as flow control. |
+| **Explicit over clever** | The boring solution that the next reader understands beats the elegant one they have to decode. |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blackhorseya&show_icons=true&locale=en&layout=compact" alt="blackhorseya" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blackhorseya&show_icons=true&locale=en" alt="blackhorseya" /></p>
+## Selected work
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blackhorseya&" alt="blackhorseya" /></p>
+### [agend-terminal](https://github.com/blackhorseya/agend-terminal) · Rust
 
+[![crates.io](https://img.shields.io/crates/v/agend-terminal?style=flat-square&logo=rust&color=orange)](https://crates.io/crates/agend-terminal)
+[![downloads](https://img.shields.io/crates/d/agend-terminal?style=flat-square)](https://crates.io/crates/agend-terminal)
+[![license](https://img.shields.io/github/license/blackhorseya/agend-terminal?style=flat-square)](https://github.com/blackhorseya/agend-terminal/blob/main/LICENSE)
+
+Orchestrate AI coding agents rather than just run them. Declare a whole dev team in one `fleet.yaml`;
+it launches each agent as a long-lived PTY process, isolates branch-bound work in daemon-managed git
+worktrees, and wires up inter-agent coordination over MCP. The piece that was missing once I started
+running several coding agents at once instead of one at a time.
+
+### Everything else
+
+| Project | Stack | What it is |
+|---|---|---|
+| [**ekko**](https://github.com/blackhorseya/ekko) ![](https://img.shields.io/github/stars/blackhorseya/ekko?style=flat-square&label=) | Go | Todo list built to grow into a Jira-like issue tracker — workflows, collaboration, reporting. |
+| [**golang-101**](https://github.com/blackhorseya/golang-101) ![](https://img.shields.io/github/stars/blackhorseya/golang-101?style=flat-square&label=) | Go | Working through Go properly: concurrency, generics, tooling, the standard library's sharp edges. |
+| [**petlog**](https://github.com/blackhorseya/petlog) ![](https://img.shields.io/github/stars/blackhorseya/petlog?style=flat-square&label=) | Go · TypeScript | Full-stack health management for multi-pet households — Go API, TypeScript web, Terraform deploy. |
+| [**godine**](https://github.com/blackhorseya/godine) ![](https://img.shields.io/github/stars/blackhorseya/godine?style=flat-square&label=) | Go | Online food ordering system, written as a deliberate exercise in Domain-Driven Design. |
+| [**sion**](https://github.com/blackhorseya/sion) ![](https://img.shields.io/github/stars/blackhorseya/sion?style=flat-square&label=) | Go | Data analysis and integration platform for car rental firms. |
+| [**ryze**](https://github.com/blackhorseya/ryze) | Go | Blockchain explorer for TON — querying blocks, transactions, and accounts. |
+| [**go-ddd**](https://github.com/blackhorseya/go-ddd) | Go | Reference layout for the architecture above — so I stop re-deriving it per project. |
+| [**memcached-operator**](https://github.com/blackhorseya/memcached-operator) · [**webscraper-operator**](https://github.com/blackhorseya/webscraper-operator) | Go | Kubernetes operators — learning the controller-runtime model by building real ones. |
+
+---
+
+## Stack
+
+**Languages**
+
+[![](https://skillicons.dev/icons?i=go,rust,ts,py)](https://skillicons.dev)
+
+**Platform & infrastructure**
+
+[![](https://skillicons.dev/icons?i=kubernetes,docker,terraform,gcp,aws,git)](https://skillicons.dev)
+
+**Data & observability**
+
+[![](https://skillicons.dev/icons?i=postgres,mongodb,redis,kafka,grafana,prometheus)](https://skillicons.dev)
+
+**Practice** — Clean Architecture · DDD · trunk-based development · Conventional Commits
+
+---
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=blackhorseya&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
