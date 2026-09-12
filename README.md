@@ -8,10 +8,10 @@
 <img src="https://komarev.com/ghpvc/?username=blackhorseya&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
 
 Backend and platform engineer. I build services in **Go** — domain first, Clean Architecture,
-dependencies pointing inward — and reach for **Rust** when the thing I need is a tool rather than a service.
+dependencies pointing inward — and spend the rest of my time on the infrastructure they run on.
 
-Most of what I publish here is one of three kinds: a system built the way I think systems should be built,
-a tool I needed and could not find, or notes from learning something properly rather than quickly.
+Most of what I publish here is one of two kinds: a system built the way I think systems should be built,
+or notes from learning something properly rather than quickly.
 
 ---
 
@@ -30,19 +30,6 @@ These are the opinions that show up in almost every repo here, so they are worth
 ---
 
 ## Selected work
-
-### [agend-terminal](https://github.com/blackhorseya/agend-terminal) · Rust
-
-[![crates.io](https://img.shields.io/crates/v/agend-terminal?style=flat-square&logo=rust&color=orange)](https://crates.io/crates/agend-terminal)
-[![downloads](https://img.shields.io/crates/d/agend-terminal?style=flat-square)](https://crates.io/crates/agend-terminal)
-[![license](https://img.shields.io/github/license/blackhorseya/agend-terminal?style=flat-square)](https://github.com/blackhorseya/agend-terminal/blob/main/LICENSE)
-
-Orchestrate AI coding agents rather than just run them. Declare a whole dev team in one `fleet.yaml`;
-it launches each agent as a long-lived PTY process, isolates branch-bound work in daemon-managed git
-worktrees, and wires up inter-agent coordination over MCP. The piece that was missing once I started
-running several coding agents at once instead of one at a time.
-
-### Everything else
 
 | Project | Stack | What it is |
 |---|---|---|
